@@ -49,7 +49,6 @@ input {
     align-items: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 0.875rem;
-    ;
 }
 
 .header_menu_container_botao {
@@ -86,7 +85,6 @@ input {
     display: flex;
     flex-direction: column;
     text-align: justify;
-
 }
 
 .main_titulo_h1 {
@@ -119,8 +117,6 @@ input {
     align-items: flex-start;
     max-width: 700px;
     padding: 30px
-    
-
 }
 
 .main_article_link {
@@ -128,46 +124,43 @@ input {
     margin-bottom: 80px;
 }
 
-.main_form{
+.main_form {
     background-color: #0000ff;
-        
-    
 }
 
-.main_form_cadastro{
+.main_form_cadastro {
     max-width: 1060px;
     padding: 30px 30px 30px 30px;
 }
 
-.main_form_cadastro_h1{
+.main_form_cadastro_h1 {
     font-family: 'JetBrains Mono', monospace;
     margin-bottom: 20px;
     color: #ffffff;
 }
 
-.main_form_cadastro_paragrafo{
+.main_form_cadastro_paragrafo {
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
     color: #ffffff;
     margin-bottom: 20px;
-
 }
 
-.main_form_cadastro_label{
+.main_form_cadastro_label {
     font-family: 'Open Sans', sans-serif;
     font-size: smaller;
     color: #ffffff;
     margin-right: 10px
 }
 
-input{
+input {
     padding: 5px;
     height: auto;
     width: 300px;
 }
 
-.main_form_cadastro_botao{
+.main_form_cadastro_botao {
     font-family: 'Open Sans', sans-serif;
     padding: 5px;
-    height: auto;   
+    height: auto;
 }
